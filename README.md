@@ -35,12 +35,7 @@ Para usar esta calculadora, você só precisa de um navegador web moderno.
 
 ## Estrutura do Projeto
 
-calculadora/
-├── index.html
-├── styles.css
-└── script.js
-
-
+calculadora:
 - **index.html**: Contém a estrutura HTML da calculadora.
 - **styles.css**: Contém o estilo CSS para a calculadora.
 - **script.js**: Contém o código JavaScript que implementa a lógica da calculadora.
