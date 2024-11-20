@@ -20,7 +20,7 @@ Para usar esta calculadora, você só precisa de um navegador web moderno.
 1. **Clone o repositório:**
 
     ```sh
-    git clone https://github.com/seu-usuario/calculadora.git
+    https://github.com/DaviPereiraL/calculadora-JS.git
     ```
 
 2. **Navegue até o diretório do projeto:**
